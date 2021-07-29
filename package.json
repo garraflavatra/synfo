@@ -1,6 +1,5 @@
 {
   "name": "synfo",
-  "private": "true",
   "version": "1.0.0",
   "description": "A program with which you can retrieve several types of system info (about hardware, software etc.).",
   "main": "dist/lib.js",
