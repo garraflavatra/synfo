@@ -1,6 +1,6 @@
 {
   "name": "synfo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A program with which you can retrieve several types of system info (about hardware, software etc.).",
   "main": "dist/lib.js",
   "scripts": {
@@ -14,6 +14,11 @@
   },
   "keywords": ["CLI"],
   "author": "Romein van Buren <romein@vburen.eu>",
+  "homepage": "https://projects.romeinvanburen.nl/synfo/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/garraflavatra/synfo.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^16.4.6",
