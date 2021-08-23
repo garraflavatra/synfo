@@ -1,7 +1,7 @@
 # Synfo
 
 [![npm bundle size](https://img.shields.io/bundlephobia/min/synfo)](https://www.npmjs.com/package/synfo)
-[![https://img.shields.io/badge/api-docs-blue]](https://projects.romeinvanburen.nl/synfo/)
+[![API docs](https://img.shields.io/badge/api-docs-blue)](https://projects.romeinvanburen.nl/synfo/)
 [![Build](https://github.com/garraflavatra/synfo/actions/workflows/build.yml/badge.svg)](https://github.com/garraflavatra/synfo/actions/workflows/build.yml)
 
 
