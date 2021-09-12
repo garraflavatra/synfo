@@ -19,7 +19,7 @@ npm install synfo --global
 I don't think I could have made it easier:
 
 ```shell
-synfo <info_name>
+synfo [<info_name>|help]
 ```
 
 Where `<info_name>` is one of:
